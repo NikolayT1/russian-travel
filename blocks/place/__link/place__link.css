@@ -1,0 +1,11 @@
+.place__link {
+    margin: 12px 0 0;
+    max-width: 484px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    /* text-align: center; */
+    color: #FFFFFF;
+  /*   border: 1px solid sienna; */
+    display: inline-block;
+}

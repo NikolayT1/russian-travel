@@ -1,0 +1,11 @@
+.lead {
+    width: 984px;
+    height: 1005px;
+    /* margin: 0 auto; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    position: relative;
+   /*  border: 2px solid lightgoldenrodyellow; */
+}
