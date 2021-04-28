@@ -16,7 +16,7 @@
     .place {
       grid-template-columns: 43vw 1fr;
       grid-template-rows: 152px 43vw;
-      gap: calc(100vw * 0.03);
+      gap: 3vw;
     }
 } 
 
@@ -27,7 +27,7 @@
 } 
 @media screen and (max-width: 900px) {
   .place {
-    grid-template-rows: 90px calc(100vw * 0.43);
+    grid-template-rows: 90px 43vw;
   }
 } 
 @media screen and (max-width: 560px) {

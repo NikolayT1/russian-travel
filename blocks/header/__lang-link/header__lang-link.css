@@ -6,7 +6,6 @@
     text-decoration-line:none;
     color: #FFFFFF;
     list-style: none;
-    /* border: 1px solid skyblue; */
   }
   .header__lang-link:nth-of-type(1) {
     margin-right: 16px;

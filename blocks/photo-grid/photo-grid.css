@@ -3,31 +3,13 @@
     margin: 92px 0;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-    /* grid-template-columns: repeat(4, 1fr); */
-    /* grid-template-rows: repeat(3, 213px); */
     grid-auto-flow: row;
-    /* grid-auto-rows: auto; */
-    /* grid-auto-rows: 213px; */
     gap: 16px;
-   /*  border: 1px solid wheat; */
 }
-/* @media screen and (max-width: 1280px) {
-    .photo-grid {
-      width: calc(100vw * 0.93);
-
- grid-template-columns: repeat(3, calc(100vw * 0.905 / 3));
-      grid-template-rows: repeat(4, calc(100vw * 0.905 / 3 * 0.75)); 
-      gap: calc(100vw * 0.0125);
-    }
-}  */
 @media screen and (max-width: 1280px) {
   .photo-grid {
     width: 93vw;
     gap: 16px;
-
-/* grid-template-columns: repeat(3, calc(100vw * 0.905 / 3));
-    grid-template-rows: repeat(4, calc(100vw * 0.905 / 3 * 0.75)); 
-    gap: calc(100vw * 0.0125); */
   }
 } 
 @media screen and (max-width: 768px) {

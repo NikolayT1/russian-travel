@@ -3,7 +3,6 @@
     width: 176px;
     background-size: cover;
     background-image: url(/images/sprint-3-images/header-logo.svg);
-    /* border: 1px solid hotpink; */
   }
   @media screen and (max-width: 540px) {
     .header__logo {

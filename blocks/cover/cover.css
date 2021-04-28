@@ -2,7 +2,6 @@
     width: 1184px;
     height: 740px;
     margin-top: 92px;
-    /* border: 1px solid wheat; */
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;

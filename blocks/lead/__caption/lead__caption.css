@@ -1,8 +1,4 @@
 .lead__caption {
- /*    width: 640px; */
-    /* position: absolute; */
-    /* left: 0;
-    bottom: 0; */
     width: 100%;
     margin: 8px 0 0;
     font-size: 10px;
@@ -10,7 +6,4 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
     color: #FFFFFF;
-    /* display: inline-block; */
-   /*  text-align: center; */
-    /* border: 1px solid skyblue; */
 }

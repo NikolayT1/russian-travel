@@ -2,8 +2,6 @@
     margin: 92px 0 0;
     padding: 0;
     width: 984px;
-   
-    /* border: 1px solid slateblue; */
 }
 @media screen and (max-width: 1080px) {
     .intro {
