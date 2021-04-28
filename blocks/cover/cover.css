@@ -12,15 +12,15 @@
     .cover {
         width: 100%;
         height: calc(100vw / 1.6);
-    } 
+    }
 }
 @media screen and (max-width: 740px) {
     .cover {
         margin-top: calc(100px + 745px - 100vw);
-    } 
+    }
 }
 @media screen and (max-width: 560px) {
     .cover {
         margin-top: 66px;
-    } 
+    }
 }

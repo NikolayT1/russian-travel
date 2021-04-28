@@ -11,16 +11,16 @@
     width: 93vw;
     gap: 16px;
   }
-} 
+}
 @media screen and (max-width: 768px) {
   .photo-grid {
     width: 93vw;
     gap: 14px;
   }
-} 
+}
 @media screen and (max-width: 560px) {
   .photo-grid {
     width: 93vw;
     gap: 12px;
   }
-} 
+}
