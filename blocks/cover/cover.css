@@ -4,7 +4,7 @@
     margin-top: 92px;
     /* border: 1px solid wheat; */
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-direction: column;
     align-items: center;
     position: relative;
@@ -13,5 +13,15 @@
     .cover {
         width: 100%;
         height: calc(100vw / 1.6);
+    } 
+}
+@media screen and (max-width: 740px) {
+    .cover {
+        margin-top: calc(100px + 745px - 100vw);
+    } 
+}
+@media screen and (max-width: 560px) {
+    .cover {
+        margin-top: 66px;
     } 
 }

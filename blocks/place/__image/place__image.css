@@ -1,6 +1,22 @@
 .place__image {
+    margin: 0;
+    padding: 0;
     max-width: 100%;
     max-height: 100%;
     object-fit: cover;
     /* border: 1px solid wheat; */
 }
+@media screen and (max-width: 560px) {
+    .place__image {
+      display: flex;
+      flex-direction: column;
+      width: 100vw;
+      height: 100vw;
+  /*     align-items: center;
+      position: relative; */
+      /* grid-template-columns: 100%;
+      grid-template-rows: auto auto 100% auto;
+      gap: 10vw;
+      margin-top: calc(80px + (960px - 98%)); */
+    }
+  }

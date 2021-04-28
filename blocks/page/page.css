@@ -1,7 +1,13 @@
 .page {
     background-color: #2A2C2F;
-    width: 100%;
+    width: 100vw;
     margin: 0;
     font-family: 'Inter', Arial, sans-serif;
     padding: 28px 0 0;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
   }
+  @media screen and (max-width: 560px) {
+    .page {
+      padding-top: 4vw;
+   }

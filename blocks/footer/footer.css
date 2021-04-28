@@ -6,6 +6,9 @@
 }
 @media screen and (max-width: 1280px) {
     .footer {
-        width: calc(100% - 96px);
-      
+        width: 91vw;
+    }
+@media screen and (max-width: 560px) {
+    .footer {
+        flex-direction: column;
     }

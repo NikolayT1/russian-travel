@@ -8,3 +8,8 @@
     /* text-align: center; */
     color: #FFFFFF;
 }
+@media screen and (max-width: 1080px) {
+    .intro__text {
+      width: 91vw;
+    }
+} 

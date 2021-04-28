@@ -6,3 +6,15 @@
     font-weight: 400;
     color: #FFFFFF;
 }
+@media screen and (max-width: 1000px) {
+    .place__paragraph {
+        font-size: 16px;
+        margin: 0 0 26px;
+    }
+} 
+@media screen and (max-width: 560px) {
+    .place__paragraph {
+        font-size: 16px;
+        margin: 0 16px 26px 16px;
+    }
+} 

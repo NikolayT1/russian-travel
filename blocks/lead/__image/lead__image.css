@@ -7,6 +7,6 @@
 }
 @media screen and (max-width: 1080px) {
     .lead__image {
-        height: calc(100vw * 0.57);
+        height: 57vw;
     }
 } 
