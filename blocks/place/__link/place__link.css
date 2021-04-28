@@ -9,3 +9,6 @@
   /*   border: 1px solid sienna; */
     display: inline-block;
 }
+.place__link:hover {
+  opacity: 80%;
+}

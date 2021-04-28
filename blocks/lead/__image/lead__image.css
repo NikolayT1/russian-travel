@@ -4,5 +4,9 @@
     height: 615px;
     object-fit: cover;
     /* border: 1px solid skyblue; */
-
 }
+@media screen and (max-width: 1080px) {
+    .lead__image {
+        height: calc(100vw * 0.57);
+    }
+} 
