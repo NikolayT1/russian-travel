@@ -1,20 +1,26 @@
 .place__paragraph {
-    margin: 0 0 26px;
+    margin: 26px 0 0;
     max-width: 484px;
     font-size: 18px;
     line-height: 1.63;
     font-weight: 400;
     color: #FFFFFF;
 }
+.place__paragraph:first-of-type {
+    margin: 0;
+}
 @media screen and (max-width: 1000px) {
     .place__paragraph {
         font-size: 16px;
-        margin: 0 0 26px;
+        margin: 26 0 0;
     }
 }
 @media screen and (max-width: 560px) {
     .place__paragraph {
         font-size: 16px;
-        margin: 0 16px 26px 16px;
+        margin: 25px 16px 0 16px;
+    }
+    .place__paragraph:first-of-type {
+        margin: 32px 16px 0 16px;
     }
 }

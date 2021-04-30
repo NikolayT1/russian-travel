@@ -7,10 +7,6 @@
     color: #FFFFFF;
     list-style: none;
   }
-  .header__lang-link:nth-of-type(1) {
-    margin-right: 16px;
-    text-decoration-line: underline;
-  }
   @media screen and (max-width: 540px) {
     .header__lang-link {
       font-size: 18px;

@@ -14,18 +14,18 @@
 @media screen and (max-width: 1280px) {
     .place {
       grid-template-columns: 43vw 1fr;
-      grid-template-rows: 152px 43vw;
+      grid-template-rows: 152px auto;
       gap: 3vw;
     }
 }
 @media screen and (max-width: 960px) {
     .place {
-      margin-top: calc(80px + (960px - 100vw)/1.5);
+      margin-top: 10vw;
     }
 }
 @media screen and (max-width: 900px) {
   .place {
-    grid-template-rows: 90px 43vw;
+    grid-template-rows: 90px auto;
   }
 }
 @media screen and (max-width: 560px) {
