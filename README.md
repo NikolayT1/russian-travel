@@ -10,7 +10,5 @@
 ## Что хочется улучшить ##
 В дальнейшем хотелось бы сделать меню для быстрого перемещения по сайту.
 
-
 **GitHub**
-* [Ссылка на проект в GitHub](https://nikolayt1.github.io/russian-travel/)
-
+* [Ссылка на проект в GitHub Pages](https://nikolayt1.github.io/russian-travel/index.html)
