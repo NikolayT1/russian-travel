@@ -12,5 +12,5 @@
 
 
 **GitHub**
-* [Ссылка на проект в GitHub](https://github.com/NikolayT1/russian-travel.git)
+* [Ссылка на проект в GitHub](https://nikolayt1.github.io/russian-travel/)
 
