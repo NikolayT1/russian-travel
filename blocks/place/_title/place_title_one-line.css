@@ -1,8 +1,0 @@
-.place_title_one-line {
-    grid-template-rows: 76px 460px;
-}
-@media screen and (max-width: 1280px) {
-    .place_title_one-line {
-      grid-template-rows: 76px auto;
-    }
-}

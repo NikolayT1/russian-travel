@@ -1,18 +1,16 @@
 .page {
   min-width: 320px;
-    background-color: #2A2C2F;
-   /*  width: 97vw; */
-    display: flex;
-    flex-direction: column;
-    margin: 0 auto;
-    font-family: 'Inter', Arial, sans-serif;
-    padding: 28px 0 24px;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    /* border: 1px solid blue */
+  background-color: #2a2c2f;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
+  padding: 28px 0 24px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+@media screen and (max-width: 560px) {
+  .page {
+    padding-top: 5vw;
   }
-  @media screen and (max-width: 560px) {
-    .page {
-      padding-top: 4vw;
-   }
 }

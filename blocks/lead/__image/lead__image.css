@@ -1,11 +1,5 @@
 .lead__image {
-    margin: 0;
-    width: 100%;
-    height: 615px;
-    object-fit: cover;
+  margin: 0;
+  width: 100%;
+  object-fit: cover;
 }
-@media screen and (max-width: 1080px) {
-    .lead__image {
-        height: 57vw;
-    }
-} 
