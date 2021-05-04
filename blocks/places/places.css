@@ -5,12 +5,12 @@
 }
 @media screen and (max-width: 1080px) {
   .places {
-    width: 90.6vw;
+    width: 90.6%;
   }
 }
 @media screen and (max-width: 1023px) {
   .places {
-    width: 93.75vw;
+    width: 93.75%;
   }
 }
 @media screen and (max-width: 560px) {

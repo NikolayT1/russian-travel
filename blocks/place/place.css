@@ -21,9 +21,11 @@
 }
 @media screen and (max-width: 1023px) {
   .place {
-    grid-template-columns: 44vw 1fr;
+    grid-template-columns: 44.3vw 1fr;
     grid-template-rows: 1fr auto;
     margin-top: 10vw;
+    column-gap: 3.6vw;
+    row-gap: 6.25vw;
   }
 }
 @media screen and (max-width: 560px) {
